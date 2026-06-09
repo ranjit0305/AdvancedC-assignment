@@ -194,13 +194,9 @@ int main() {
 }
 ```
 
-### Example Matrix
+### Example Output
 
-```text
-1   4   7   11
-2   5   8   12
-3   6   9   16
-10  13  14  17
-```
+<img width="558" height="293" alt="image" src="https://github.com/user-attachments/assets/fa92c0f2-e535-40ce-82d7-a53ed79080da" />
+
 
 ---
